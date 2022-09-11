@@ -5,7 +5,7 @@ Data Analytics Enthusiast | SQL |Power BI | Python | Machine Learning
 ---------------------------------------------------------------------
 
 Highly analytical Economics graduate and Data Science certified with strong interpersonal and analytical skills. Experienced in solving end to end machine learning problems and building visualisation dashboards.
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 * 🌍  I'm based in Midrand, South Africa
 * 🖥️  See my portfolio at [Katleho's Portfolio](http://https://github.com/Katleho10 )
