@@ -8,7 +8,7 @@ Highly analytical Economics graduate and Data Science certified with strong inte
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 * 🌍  I'm based in Midrand, South Africa
-* 🖥️  See my portfolio at [Katleho's Portfolio](http://https://github.com/Katleho10 )
+* 🖥️  See my portfolio at [Katleho's Portfolio](https://github.com/Katleho10?tab=repositories)
 * ✉️  You can contact me at [molupe91@gmail.com](mailto:molupe91@gmail.com)
 * 🧠  I'm learning Power BI and ETL pipelines
 * ⚡  Looking for Data Science, Data Engineer, Data Analyst roles
