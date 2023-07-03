@@ -11,7 +11,7 @@ Highly analytical Economics graduate and Data Science certified with strong inte
 * 🖥️  See my portfolio at [Katleho's Portfolio](https://github.com/Katleho10?tab=repositories)
 * ✉️  You can contact me at [molupe91@gmail.com](mailto:molupe91@gmail.com)
 * 🧠  I'm learning Power BI and ETL pipelines
-* ⚡  Looking for Data Science, Data Engineer, Data Analyst roles
+* ⚡  Looking for Data Science, Data Engineer, Data Analyst and Power BI Analyst roles
 
 
 ### Skills
