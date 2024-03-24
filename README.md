@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Katleho Ramonotsi
 =========================================================================================================================================
 
-Data Analytics Enthusiast | SQL |Power BI | Python | Machine Learning
+Data Scientist| Scoring Analyst | SQL |Power BI | Python | Machine Learning
 ---------------------------------------------------------------------
 
 Highly analytical Economics graduate and Data Science certified with strong interpersonal and analytical skills. Experienced in solving end to end machine learning problems and building visualisation dashboards.
